@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Tehro</string>
+    <string name="app_name_en" translatable="false">Tehro</string>
+    <string name="app_database_en" translatable="false">Tehro Database</string>
+    <string name="error">Error</string>
+    <string name="try_again">Try Again</string>
+    <string name="failed_to_load_data">Failed to load data</string>
+    <string name="back">Go Back</string>
+    <string name="line_not_found">Line not found</string>
+    <string name="station_not_found">Station not found</string>
+    <string name="no_stations_found">No stations found</string>
+    <string name="no_lines_found">No lines found</string>
+    <string name="line">Line</string>
+    <string name="lines">Lines</string>
+    <string name="n_lines">%1$d Lines</string>
+    <string name="n_stations">%1$d Stations</string>
+    <string name="yasan_logo">YASAN Logo</string>
+    <string name="map">Map</string>
+    <string name="version_prefix">v</string>
+    <string name="branch">Branch</string>
+    <string name="about">About</string>
+    <string name="github">GitHub</string>
+    <string name="about_app">Tehro is a free &amp; open-source guide application for Tehran Metro.</string>
+    <string name="about_yasan">I\'m an indie developer &amp; designer.</string>
+    <string name="twitter">Twitter</string>
+    <string name="instagram">Instagram</string>
+    <string name="discord_server">Discord Server</string>
+    <string name="telegram_channel">Telegram Channel</string>
+    <string name="medium">Medium</string>
+    <string name="database_last_modified_on_date">Database last modified on %1$s.</string>
+    <string name="view_on_map">View on Map</string>
+    <string name="no_app_found_map">Could not find an app to open the location</string>
+    <string name="play_store">Play Store</string>
+    <string name="cafe_bazaar">Bazaar</string>
+    <string name="f_droid">F-Droid</string>
+    <string name="unknown">Unknown</string>
+    <string name="accessibility_wheelchair_not_accessible">Not wheelchair accessible</string>
+    <string name="accessibility_wheelchair_level_1">Elevator from street to one platform</string>
+    <string name="accessibility_wheelchair_level_2">Elevator from street to both platforms</string>
+    <string name="accessibility_wheelchair_level_3">Elevator from ticket sales hall to platform</string>
+    <string name="accessibility_wheelchair_max">Elevator from street to ticket sales hall &amp; from ticket sales hall to platform</string>
+    <string name="ems_available">Emergency medical services available</string>
+    <string name="ems_unavailable">Emergency medical services unavailable</string>
+    <string name="emergency_medical_services">Emergency Medical Services</string>
+    <string name="accessibility_blind_not_accessible">Not accessible to the visually impaired</string>
+    <string name="accessibility_blind_platforms_only">Accessible to the visually impaired on platforms only</string>
+    <string name="accessibility_blind_fully_accessible">Accessible to the visually impaired</string>
+    <string name="stations">Stations</string>
+    <string name="intersections">Intersections</string>
+    <string name="database">Database</string>
+    <string name="station_location">Station Location</string>
+    <string name="station_accessibility">Station Accessibility</string>
+    <string name="statistics">Statistics</string>
+    <string name="search">Search</string>
+    <string name="line_name">Line Name</string>
+    <string name="group_by_line">Group by Line</string>
+</resources>
